@@ -126,3 +126,4 @@ C:\Users\denis.bianchi\ErpRoupas\ErpRoupas.API\obj\Debug\net8.0\refint\ErpRoupas
 C:\Users\denis.bianchi\ErpRoupas\ErpRoupas.API\obj\Debug\net8.0\ErpRoupas.API.pdb
 C:\Users\denis.bianchi\ErpRoupas\ErpRoupas.API\obj\Debug\net8.0\ErpRoupas.API.genruntimeconfig.cache
 C:\Users\denis.bianchi\ErpRoupas\ErpRoupas.API\obj\Debug\net8.0\ref\ErpRoupas.API.dll
+C:\Users\denis.bianchi\ErpRoupas\ErpRoupas.API\obj\Debug\net8.0\ErpRoupas.API.sourcelink.json
